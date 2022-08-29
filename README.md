@@ -3,7 +3,7 @@
 </p>
 
 # Arthur Tamer
-<sub>*Data Scientist*</sub>
+<sub>*Cientista de dados e analista financeiro*</sub>
 
 Sua avó sempre te disse que você era excelente em tecnologia e deveria trabalhar na área, tudo por que sabia mexer no celular? Comigo, foi assim e exatamente por isso sempre fui relutante, afinal o que eu sabia fazer era o que qualquer outro jovem fazia.
 
