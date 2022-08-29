@@ -20,10 +20,8 @@ No fim, hoje sou analista financeiro e cientista de dados, portanto tenho de adm
 **Background in:** Python, C++, Análise Financeira.
 
 **Links:**
-* [LinkedIn]([[https://www.linkedin.com/in/carlosfab](https://www.linkedin.com/in/arthur-tamer/)](https://www.linkedin.com/in/arthur-tamer/))
-* [Medium]([[https://www.medium.com](https://medium.com/@arthurtamer.h
-)](https://medium.com/@arthurtamer.h
-))
+* [LinkedIn](https://www.linkedin.com/in/arthur-tamer/)
+* [Medium](https://medium.com/@arthurtamer.h)
 
 
 ## Projetos:
