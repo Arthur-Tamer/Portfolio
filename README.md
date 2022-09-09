@@ -25,6 +25,5 @@ No fim, hoje sou analista financeiro e cientista de dados, portanto tenho de adm
 ## Projetos:
 Veja os tutoriais publicados:
 
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-
+* **Como criar e alterar um Gráfico de Waffle:** https://bit.ly/Gráfico_de_Waffle
 ---
