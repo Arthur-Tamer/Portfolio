@@ -1,10 +1,10 @@
-[![author](https://img.shields.io/badge/author-ArthurHenke-red.svg)](https://www.linkedin.com/in/arthur-tamer/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Arthur-Tamer/Portfolio/issues)
+[![author](https://img.shields.io/badge/author-ArthurHenke-red.svg)](https://bit.ly/Arthur-Tamer-LinkedIn) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Arthur-Tamer/Portfolio/issues)
 
 <p align="center">
   <img src="banner.jpeg" >
 </p>
 
-# Arthur Tamer
+# Arthur Tamer Henke
 <sub>*Cientista de dados e analista financeiro*</sub>
 
 Sua avó sempre te disse que você era excelente em tecnologia e deveria trabalhar na área, tudo por que sabia mexer no celular? Comigo, foi assim e exatamente por isso sempre fui relutante, afinal o que eu sabia fazer era o que qualquer outro jovem fazia.
@@ -25,7 +25,7 @@ No fim, hoje sou analista financeiro e cientista de dados, portanto tenho de adm
 
 
 ## Projetos:
-Veja os tutoriais publicados:
+Veja os projetos e tutoriais publicados:
 
-* **Como criar e alterar um Gráfico de Waffle:** https://bit.ly/Gráfico_de_Waffle
+* **Como criar e alterar um Gráfico de Waffle:** [https://bit.ly/Grafico_de_Waffle](https://bit.ly/Grafico_de_Waffle)
 ---
