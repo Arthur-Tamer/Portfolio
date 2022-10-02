@@ -28,5 +28,6 @@ No fim, hoje sou analista financeiro e cientista de dados, portanto tenho de adm
 Veja os projetos e tutoriais publicados:
 
 * **Como criar e alterar um Gráfico de Waffle:** [https://bit.ly/Grafico_de_Waffle](https://bit.ly/Grafico_de_Waffle)
-* **Análise dos alojamentos do Airbnb na Área Metropolitana de Lisboa** [https://bit.ly/Analise_Airbnb_AreaMetropolitanaDeLisboa](https://bit.ly/Analise_Airbnb_AreaMetropolitanaDeLisboa)
+* **Análise dos alojamentos do Airbnb na Área Metropolitana de Lisboa:** [https://bit.ly/Analise_Airbnb_AreaMetropolitanaDeLisboa](https://bit.ly/Analise_Airbnb_AreaMetropolitanaDeLisboa)
+* **Como automatizar tarefas do Excel com Openpyxl e Python:** [https://bit.ly/Tarefas_do_Excel_com_Openpyxl_e_Python](https://bit.ly/Tarefas_do_Excel_com_Openpyxl_e_Python)
 ---
